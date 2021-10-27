@@ -10,7 +10,7 @@
                 @endforeach
 
             </div>
-        </div> <!-- end pouplar-movies -->
+        </div> <!-- end popular-movies -->
 
         <div class="now-playing-movies py-24">
             <h2 class="uppercase tracking-wider text-orange-500 text-lg font-semibold">Now Playing</h2>
