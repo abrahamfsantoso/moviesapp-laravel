@@ -22,7 +22,7 @@
                     <a href="{{ route('movies.index') }}" class="hover:text-gray-300">Movies</a>
                 </li>
                 <li class="md:ml-6 mt-3 md:mt-0">
-                    <a href="#" class="hover:text-gray-300">TV Shows</a>
+                    <a href="{{ route('tv.index') }}" class="hover:text-gray-300">TV Shows</a>
                 </li>
                 <li class="md:ml-6 mt-3 md:mt-0">
                     <a href="{{ route('actors.index') }}" class="hover:text-gray-300">Actors</a>
@@ -32,7 +32,7 @@
                 <livewire:search-dropdown>
                 <div class="md:ml-4 mt-3 md:mt-0">
                     <a href="#">
-                        <img src="/img/nickfury.jpg" alt="avatar" class="rounded-full w-8 h-8">
+                        <img src="/img/avatar.jpg" alt="avatar" class="rounded-full w-8 h-8">
                     </a>
                 </div>
             </div>
